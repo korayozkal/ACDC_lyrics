@@ -4,11 +4,13 @@ This is a simple Python CLI app to word count AC/DC lyrics and visualize data wi
 
 This app uses AC/DC TNT lyrics as base and visualize most used words in the song.
 
-## Installation
-#Fork the repository and clone it 
-#Makesure Plotly is installed 
+##  Installation STEP 1
+Fork the repository and clone it 
+## Installation STEP 2
+Make sure Plotly is installed 
 https://plotly.com/python/getting-started/
-#run ! python3 acdc_lyrics/acdc.py in your terminal
+## Installation STEP 3
+run ! python3 acdc_lyrics/acdc.py in your terminal
 
 ## Troubleshooting 
 #HOW TO SOLVE ImportError: `iplot` can only run inside an IPython Notebook ERROR
